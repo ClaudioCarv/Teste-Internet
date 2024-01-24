@@ -1,0 +1,1 @@
+O teste de internet foi feito por meio de uma biblioteca chamada "speedtest" com ela, é possível testar a velocidade de várias coisas, mas para internet, só precisei medir a velocidade do download, upload e ping
